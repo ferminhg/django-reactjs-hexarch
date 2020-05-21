@@ -1,0 +1,4 @@
+Django>=3.0.6
+django-seed>=0.2.2
+django-pytest>=0.2.0
+pytest>=5.4.2
